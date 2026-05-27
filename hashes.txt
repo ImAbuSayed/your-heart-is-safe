@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Heart Is Safe
+
+This log tracks the cryptographic history and versioning for the song **Your Heart Is Safe** (your-heart-is-safe).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T14:41:45.189952 | `v1` | `82adf44b38b152ac1b043085c061cdbb14a3f2e060f0f2b57eb767f2bc332410` | `f4a384b4fa006cd0478069438763008f4ca6a1674f6a882c4e6410e0d0f17d34` | `2026-05-27_your-heart-is-safe-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
